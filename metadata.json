@@ -1,0 +1,6 @@
+{
+  "name": "uniQash Predictions",
+  "description": "Clean, fast, and reliable football predictions and tips with Free Tips, VIP drawers, daily accumulated odds, and VIP history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
